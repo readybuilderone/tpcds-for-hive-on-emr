@@ -1,4 +1,4 @@
-# TPCDS benchmark Kits for Hive on AWS EMR
+# TPCDS Benchmark Kits for Hive on AWS EMR
 
 A TPCDS benchmark test kits for Hive On AWS EMR.
 
